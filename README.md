@@ -45,7 +45,7 @@ So here we have list of books, that we currently have in our library. There is s
 
 <img width="369" alt="Снимок экрана 2022-10-05 в 2 44 03 PM" src="https://user-images.githubusercontent.com/103382741/194052703-e0e7d648-7d4d-4607-ac30-7e7bdeaf936d.png">
 
-On this page we can see again the info about the book and also it's shown if the book is free or there is who took it (see below). If it's free we can assign it to someone from the list of readers by choosing the person in the list:
+On this page we can see again the info about the book and also it's shown if the book is free or there is someone who took it (see below). If it's free we can assign it to someone from the list of readers by choosing the person in the list:
 
 <img width="361" alt="Снимок экрана 2022-10-05 в 2 47 18 PM" src="https://user-images.githubusercontent.com/103382741/194053272-4a84730b-b619-4035-af40-407ee3139de1.png">
 
