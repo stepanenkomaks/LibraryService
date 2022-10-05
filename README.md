@@ -39,7 +39,7 @@ Using this form you can add new reader to the list. And again you can only add p
 
 <img width="329" alt="Снимок экрана 2022-10-05 в 2 31 43 PM" src="https://user-images.githubusercontent.com/103382741/194050707-1cdd19c1-f7e9-4e72-af45-7e50b5f0a870.png">
 
-So here we have list of books, that we currentle have in our library. There ais shown some information about them: Name, Author, Year (of publishing). You can also see a button that allows you to add a new book to this list and a button that directs you to the list of readers (example 1). Each line is a link to the page, where you can see more specific info about the book you've chosen (example 6)
+So here we have list of books, that we currently have in our library. There ais shown some information about them: Name, Author, Year (of publishing). You can also see a button that allows you to add a new book to this list and a button that directs you to the list of readers (example 1). Each line is a link to the page, where you can see more specific info about the book you've chosen (example 6)
 
 ### Example 6: a ```/books/{id}``` request
 
