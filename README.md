@@ -34,3 +34,32 @@ Here you can update personal info of a current reader and after press button "Up
 <img width="254" alt="Снимок экрана 2022-10-03 в 6 45 52 PM" src="https://user-images.githubusercontent.com/103382741/193620444-f41c9e52-fd7c-472b-92f3-8175cd060303.png">
 
 Using this form you can add new reader to the list. And again you can only add person if it passes the check (as in example 3.1)
+
+### Example 5: a ```/books``` request
+
+<img width="329" alt="Снимок экрана 2022-10-05 в 2 31 43 PM" src="https://user-images.githubusercontent.com/103382741/194050707-1cdd19c1-f7e9-4e72-af45-7e50b5f0a870.png">
+
+So here we have list of books, that we currentle have in our library. There ais shown some information about them: Name, Author, Year (of publishing). You can also see a button that allows you to add a new book to this list and a button that directs you to the list of readers (example 1). Each line is a link to the page, where you can see more specific info about the book you've chosen (example 6)
+
+### Example 6: a ```/books/{id}``` request
+
+<img width="369" alt="Снимок экрана 2022-10-05 в 2 44 03 PM" src="https://user-images.githubusercontent.com/103382741/194052703-e0e7d648-7d4d-4607-ac30-7e7bdeaf936d.png">
+
+On this page we can see again the info about the book and also it's shown if the book is free or there is who took it (see below). If it's free we can assign it to someone from the list of readers by choosing the person in the list:
+
+<img width="361" alt="Снимок экрана 2022-10-05 в 2 47 18 PM" src="https://user-images.githubusercontent.com/103382741/194053272-4a84730b-b619-4035-af40-407ee3139de1.png">
+
+When we are ready with our choice we click on the person and then click on the button "Assign book"
+
+<img width="300" alt="Снимок экрана 2022-10-05 в 2 48 40 PM" src="https://user-images.githubusercontent.com/103382741/194053508-c5095177-a57b-45fc-8664-ac870d2ce033.png">
+
+When it's done we can see this page, where it's said who has taken this book and by clicking 
+the button "Release" we can make it free again!
+
+And if we have a desire we can remove this book from the list.
+
+### Example 7: a ```/books/{id}/edit``` request
+
+<img width="263" alt="Снимок экрана 2022-10-05 в 2 51 11 PM" src="https://user-images.githubusercontent.com/103382741/194053926-3c4267ae-5339-46c6-bab0-94465f7770d3.png">
+
+Here we have almost the same page of editing as we had for people (example 3) with same validation. After finishing your update you click the button "Update" and new data will be added.
