@@ -1,4 +1,4 @@
-# Spring Project 1
+# Library Service
 
 A simple virtual library implementation. It is based on Spring Boot and built with Intellij IDEA.
 
